@@ -9,7 +9,7 @@ let gif = document.querySelector("#gif");
 let songItems = document.querySelectorAll(".songItem");
 let masterSongName = document.querySelector("#masterSongName");
 
-// Array containing song details like name, file path, and cover image path
+// Array containing song details  name, file path, and cover image path
 let songs = [
     { songName: "1", filePath: "songs/1.mp3", coverPath: "covers/1.jpg" },
     { songName: "2", filePath: "songs/2.mp3", coverPath: "covers/2.jpg" },
